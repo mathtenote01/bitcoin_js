@@ -1,0 +1,31 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dns": "^0.2.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "log4js": "^6.3.0",
+    "morgan": "^1.10.0",
+    "os": "^0.1.2",
+    "request": "^2.88.2",
+    "semaphore": "^1.1.0",
+    "socket.io": "^4.2.0",
+    "url": "^0.11.0",
+    "url-join": "^4.0.1",
+    "utf8": "^3.0.0"
+  }
+}
